@@ -1,1 +1,1 @@
-console.log("hello WebPack");
+console.log("mudamos a congiguraçãao");
